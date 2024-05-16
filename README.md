@@ -9,3 +9,43 @@ The repository contains the necessary Unity project files, C# scripts, and asset
 By providing an immersive and interactive VR experience focused on penalty kicks, this experiment aims to contribute to the understanding of shooting proficiency and its relation to power control. The insights gained from this experiment could have implications for training methodologies, player performance assessment, and the development of realistic virtual football experiences.
 
 Feel free to clone, contribute, or utilize this repository to further explore the exciting intersection of VR, football, and player performance analysis.
+
+
+## Experiment Screenshots:
+
+This is the experiment flow.
+
+### Overall:  
+![Overall](Overall.png)
+
+
+## Apparatus Screenshots:
+
+### Apparatus :  
+![Apparatus ](Apparatus_1.png)
+
+### Apparatus :  
+![Apparatus ](Apparatus_2.png)
+
+### Apparatus :  
+![Apparatus ](Apparatus_3.png)
+
+## Experiment Screenshots:
+
+### Experiment :  
+![Experiment ](Experiment_1.png)
+
+### Experiment :  
+![Experiment ](Experiment_2.png)
+
+### Experiment :  
+![Experiment ](Experiment_3.png)
+
+### Experiment :  
+![Experiment ](Experiment_4.png)
+
+### Experiment :  
+![Experiment ](Experiment_5.png)
+
+### Results:  
+![Results](Results.png)
